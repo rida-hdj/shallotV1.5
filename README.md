@@ -1,4 +1,4 @@
-# Shallot
+# ShallotV1.5
 
 A simple 20-minute break reminder timer built with GTK4.
 
